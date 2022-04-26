@@ -1,24 +1,18 @@
-# roughrp
 
-## Project setup
-```
-yarn install
-```
+# 🚀 [RoughRP](https://www.roughrp.cz/) Website
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+One of the smaller projects for the Czech FiveM server [RoughRP](https://www.roughrp.cz/), this is a website that summarizes the most important information.
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
+## Authors
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [@Jakub200CZ](https://github.com/Jakub200CZ)
+- Soon
+
+
+![Logo](https://www.roughrp.cz/assets/img/logo2.png)
+
+
+## License
+
+[GNU-3](https://github.com/Jakub200CZ/roughrp/blob/main/LICENSE)
