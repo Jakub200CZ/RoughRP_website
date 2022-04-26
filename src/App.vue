@@ -1,7 +1,10 @@
 <template>
   <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+      <router-link to="/">Home</router-link> |
+      <router-link to="/pravidla">Pravidla</router-link> |
+      <router-link to="/ovladani">Ovládání</router-link> |
+      <router-link to="/vip">VIP</router-link> |
+      <router-link to="/gov">Zákony</router-link>
   </div>
   <router-view/>
 </template>

@@ -34,7 +34,7 @@ const routes = [
     component: function () {
       return import('../views/gov.vue')
     }
-  },
+  }
 ]
 
 const router = createRouter({
