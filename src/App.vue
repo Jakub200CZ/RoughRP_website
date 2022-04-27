@@ -1,12 +1,12 @@
 <template>
   <div id="nav">
-      <router-link class="nav-it" to="/">Home</router-link> |
-      <router-link class="nav-it" to="/pravidla">Pravidla</router-link> |
-      <router-link class="nav-it" to="/ovladani">Ovládání</router-link> |
-      <router-link class="nav-it" to="/vip">VIP</router-link> |
-      <router-link class="nav-it" to="/gov">Zákony</router-link>
+    <router-link class="nav-it" to="/">Home</router-link> |
+    <router-link class="nav-it" to="/pravidla">Pravidla</router-link> |
+    <router-link class="nav-it" to="/ovladani">Ovládání</router-link> |
+    <router-link class="nav-it" to="/vip">VIP</router-link> |
+    <router-link class="nav-it" to="/gov">Zákony</router-link>
   </div>
-  <router-view/>
+  <router-view />
 </template>
 
 <style>
@@ -16,7 +16,7 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #fff;
-  background-color: #242424;
+  background-color: #111827;
 }
 
 .nav-it {
