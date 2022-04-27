@@ -14,7 +14,7 @@
           sm:opacity-100
         "
         src="https://www.roughrp.cz/assets/img/fullcity-min.jpg"
-        alt="Couple on a bed with a dog"
+        alt="Background Los Santos"
       />
 
       <div
@@ -24,7 +24,7 @@
           sm:inset-0
           sm:absolute
           sm:bg-gradient-to-r
-          sm:from-red-600
+          sm:from-red-800
           sm:to-transparent
         "
       ></div>
@@ -47,39 +47,61 @@
             </strong>
           </h1>
 
-          <p class="pt-5 pb-5">Moderní RolePlay FiveM server, který ti nabídne mnoho skvělých funkcí: multichar, okrádání lidí, a mnohem více. Přijď se sám podívat a přesvědčit se o tom sám.</p>
+          <p class="pt-5 pb-5">
+            Moderní RolePlay FiveM server, který ti nabídne mnoho skvělých
+            funkcí: multichar, okrádání lidí, a mnohem více. Přijď se sám
+            podívat a přesvědčit se o tom sám.
+          </p>
 
           <div class="status">
-            <p id="serverStatus"><span class="loading">Načítání dat</span></p>
-            <p id="playerCount"><span class="loading">Načítání dat</span></p>
+            <p id="serverStatus" class="font-bold"><span class="loading">Načítání dat</span></p>
+            <p id="playerCount" class="font-bold"><span class="loading">Načítání dat</span></p>
           </div>
 
-        <div class="pt-5">
-          <a
-            class="
-              px-3
-              py-2
-              text-indigo-300
-              transition-colors
-              border border-current
-              rounded-lg
-              hover:bg-indigo-300
-              group
-              active:bg-indigo-500
-              focus:outline-none focus:ring
-            "
-            href="/download"
-          >
-            <span class="font-medium transition-colors group-hover:text-white">
-              Připoj se na <span class="font-bold">DISCORD</span>
-            </span>
-          </a>
+          <div class="pt-5">
+            <a
+              class="
+                px-3
+                py-2
+                text-indigo-300
+                transition-colors
+                border border-current
+                rounded-lg
+                hover:bg-indigo-300
+                group
+                active:bg-indigo-500
+                focus:outline-none focus:ring
+              "
+              href="/download"
+            >
+              <span
+                class="font-medium transition-colors group-hover:text-white"
+              >
+                Připoj se na <span class="font-bold">DISCORD</span>
+              </span>
+            </a>
           </div>
         </div>
       </div>
     </section>
   </div>
 </template>
+  
+  <style>
+.serverStatusOffline {
+  color: red;
+  font-weight: 500;
+}
+
+.serverStatusOnline {
+  color: greenyellow;
+  font-weight: 500;
+}
+
+.playerCountNumber {
+  font-weight: 500;
+}
+</style>
 
 <script>
 export default {
