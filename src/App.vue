@@ -28,14 +28,21 @@
   padding: 30px;
   display: flex;
   justify-content: center;
+
 }
 
 #nav a {
   font-weight: bold;
   color: #ffffff;
+  transition: 0.2s;
 }
 
 #nav a.router-link-exact-active {
   color: #ff2727;
+}
+
+#nav a:hover {
+  color: #c3c3c3;
+  transition: 0.2s;
 }
 </style>

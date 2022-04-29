@@ -13,7 +13,7 @@
           opacity-25
           sm:opacity-100
         "
-        src="https://www.roughrp.cz/assets/img/fullcity-min.jpg"
+        src="https://wallpapercave.com/wp/wp6860393.jpg"
         alt="Background Los Santos"
       />
 
@@ -24,7 +24,7 @@
           sm:inset-0
           sm:absolute
           sm:bg-gradient-to-r
-          sm:from-red-800
+          sm:from-gray-800
           sm:to-transparent
         "
       ></div>
@@ -89,13 +89,13 @@
       </div>
     </section>
 
-    <aside class="p-12 bg-gray-100 sm:p-16 lg:p-24">
+    <aside class="p-12 bg-gray-900 sm:p-16 lg:p-24">
       <div class="max-w-xl mx-auto text-center">
         <p class="text-sm font-medium text-gray-500">
           Kvalitní RolePlay server se servery v něměcku.
         </p>
 
-        <p class="mt-2 text-3xl font-bold sm:text-5xl text-black">
+        <p class="mt-2 text-3xl font-bold sm:text-5xl text-gray-100">
           Kvalitní WL-OFF server.
         </p>
 
@@ -184,7 +184,7 @@
           >
             <path
               stroke-linecap="round"
-              stroke-linejoin="round"
+              stroke-linejoin="round" 
               stroke-width="2"
               d="M17 8l4 4m0 0l-4 4m4-4H3"
             />
