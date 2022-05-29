@@ -1,6 +1,6 @@
 <template>
     <docs_head />
-    <end class="absolute inset-x-0 bottom-0" />
+    <end class="lg:absolute inset-x-0 bottom-0" />
 </template>
 
 <script>
