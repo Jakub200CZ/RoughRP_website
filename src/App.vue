@@ -28,7 +28,6 @@
   padding: 30px;
   display: flex;
   justify-content: center;
-
 }
 
 #nav a {
@@ -46,3 +45,4 @@
   transition: 0.2s;
 }
 </style>
+

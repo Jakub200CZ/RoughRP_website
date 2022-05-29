@@ -19,22 +19,22 @@
           "
         >
           <div>
-            <p class="font-medium underline">Základ</p>
+            <p class="font-medium underline" id="zaklad">Základ</p>
 
             <nav class="flex flex-col mt-4 space-y-2 text-sm text-gray-500">
-              <a class="hover:opacity-75 transition duration-150" href="">
+              <a class="hover:opacity-75 transition duration-150" href="/#/">
                 Domů
               </a>
-              <a class="hover:opacity-75 transition duration-150" href="">
+              <a class="hover:opacity-75 transition duration-150" href="/#/">
                 Pravidla
               </a>
-              <a class="hover:opacity-75 transition duration-150" href="">
-                Ovládání
+              <a class="hover:opacity-75 transition duration-150" href="/#/">
+                Dokumentace
               </a>
-              <a class="hover:opacity-75 transition duration-150" href="">
+              <a class="hover:opacity-75 transition duration-150" href="/#/">
                 VIP
               </a>
-              <a class="hover:opacity-75 transition duration-150" href="">
+              <a class="hover:opacity-75 transition duration-150" href="/#/">
                 Zákony
               </a>
             </nav>
@@ -44,17 +44,14 @@
             <p class="font-medium underline">Služby</p>
 
             <nav class="flex flex-col mt-4 space-y-2 text-sm text-gray-500">
-              <a class="hover:opacity-75 transition duration-150" href="">
+              <a class="hover:opacity-75 transition duration-150" href="https://roughrp.statuspage.io/" target="_blank">
                 Status
               </a>
-              <a class="hover:opacity-75 transition duration-150" href="">
+              <a class="hover:opacity-75 transition duration-150" href="https://discord.com/channels/929491049385173013/929527609786761236" target="_blank">
                 Oznámení
               </a>
-              <a class="hover:opacity-75 transition duration-150" href="">
+              <a class="hover:opacity-75 transition duration-150" href="https://discord.com/channels/929491049385173013/929528429257297950" target="_blank">
                 Changelog
-              </a>
-              <a class="hover:opacity-75 transition duration-150" href="">
-                Statistiky
               </a>
             </nav>
           </div>
@@ -67,10 +64,7 @@
                 Kontakt
               </a>
               <a class="hover:opacity-75 transition duration-150" href="">
-                FAQ
-              </a>
-              <a class="hover:opacity-75 transition duration-150" href="">
-                Wiki
+                Dokumentace
               </a>
             </nav>
           </div>

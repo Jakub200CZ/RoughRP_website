@@ -9020,6 +9020,13 @@
   "resolved" "https://registry.npmjs.org/vm-browserify/-/vm-browserify-1.1.2.tgz"
   "version" "1.1.2"
 
+"vue-backtotop@^1.6.1":
+  "integrity" "sha512-/zbKVHrfs2gfuY/2r7n4jUGE0WrixXRNjYVOOmtPCpgnz2/1iNerczlWnbT2wnI/KJvfKMDp+sGza4CqDvElAQ=="
+  "resolved" "https://registry.npmjs.org/vue-backtotop/-/vue-backtotop-1.6.1.tgz"
+  "version" "1.6.1"
+  dependencies:
+    "vue" "2.3.3"
+
 "vue-cli-plugin-tailwind@~3.0.0":
   "integrity" "sha512-bUWjfwGtJCeBU7pL4lD86RC+HsJAmAlYqr8e65NGC3q/ZBzC9KQs1Iy/vTyfDTnB7ZJm3huB+1a/m+17fdMZ8A=="
   "resolved" "https://registry.npmjs.org/vue-cli-plugin-tailwind/-/vue-cli-plugin-tailwind-3.0.0.tgz"
@@ -9125,6 +9132,11 @@
   "integrity" "sha512-x2284lgYvjOMj3Za7kqzRcUSxBboHqtgRE2zlos1qWaOye5yUmHn42LB1250NJBLRwEcdrB0JRwyPTEPhfQjiQ=="
   "resolved" "https://registry.npmjs.org/vue/-/vue-2.6.14.tgz"
   "version" "2.6.14"
+
+"vue@2.3.3":
+  "integrity" "sha1-0eqo/eUkBzWkVj508sf+rZy7Bkw="
+  "resolved" "https://registry.npmjs.org/vue/-/vue-2.3.3.tgz"
+  "version" "2.3.3"
 
 "watchpack-chokidar2@^2.0.1":
   "integrity" "sha512-nCFfBIPKr5Sh61s4LPpy1Wtfi0HE8isJ3d2Yb5/Ppw2P2B/3eVSEBjKfN0fmHJSK14+31KwMKmcrzs2GM4P0Ww=="

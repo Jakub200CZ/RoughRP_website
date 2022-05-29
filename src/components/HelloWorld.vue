@@ -1,4 +1,5 @@
 <template>
+
   <div class="main">
     <section class="relative bg-gray-800">
       <img
@@ -213,4 +214,3 @@
   font-weight: 500;
 }
 </style>
-

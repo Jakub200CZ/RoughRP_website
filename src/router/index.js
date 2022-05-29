@@ -35,6 +35,7 @@ const routes = [
       return import('../views/Docs.vue')
     }
   },
+  
 ]
 
 const router = createRouter({

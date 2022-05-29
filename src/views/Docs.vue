@@ -1,5 +1,5 @@
 <template>
-    <docs_head />
+    <docs_head/>
     <end class="lg:absolute inset-x-0 bottom-0" />
 </template>
 
