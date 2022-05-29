@@ -33,13 +33,13 @@
         class="
           relative
           max-w-screen-xl
-          px-4
-          py-32
+          px-8
+          py-28
           mx-auto
           lg:h-screen lg:items-center lg:flex
         "
       >
-        <div class="max-w-xl text-center sm:text-left">
+        <div class="max-w-xl text-center sm:text-left pb-20">
           <h1 class="text-3xl font-extrabold sm:text-5xl">
             Vítejte na
             <strong class="font-extrabold underline text-Amber-700 sm:block">
@@ -76,7 +76,8 @@
                 active:bg-indigo-500
                 focus:outline-none focus:ring
               "
-              href="/download"
+              href="https://discord.gg/roughrp"
+              target="_blank"
             >
               <span
                 class="font-medium transition-colors group-hover:text-white"
@@ -101,7 +102,8 @@
 
         <div class="mt-8 sm:items-center sm:justify-center sm:flex">
           <a
-            href=""
+            href="https://discord.gg/roughrp"
+            target="_blank"
             class="
               block
               px-5
@@ -120,7 +122,8 @@
           </a>
 
           <a
-            href=""
+            href="https://cfx.re/join/l5bma4"
+            target="_blank"
             class="
               block
               px-5
@@ -159,7 +162,7 @@
         </div>
 
         <a
-          href=""
+          href="/#/docs"
           class="
             inline-block
             px-8
