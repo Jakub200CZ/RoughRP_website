@@ -13,13 +13,13 @@
 
     <div>
         <p class="pl-20">Lamborghini Sián FKP 37</p>
-      <img src="/vip/sianDiamond.jpg" alt="SilverVIP" class="imgVIP pl-20" />
+      <img src="https://jakubsedlacek.xyz/assets/VIPimg/sianDiamond.jpg" alt="SilverVIP" class="imgVIP pl-20" />
       <p class="pl-20">Rolls Royce Ghost swb</p>
-      <img src="/vip/ghostDiamond.jpg" alt="SilverVIP" class="imgVIP pl-20" />
+      <img src="https://jakubsedlacek.xyz/assets/VIPimg/ghostDiamond.jpg" alt="SilverVIP" class="imgVIP pl-20" />
       <p class="pl-20">Ferrari 458 Spider</p>
-      <img src="/vip/spiderDiamond.png" alt="SilverVIP" class="imgVIP pl-20" />
+      <img src="https://jakubsedlacek.xyz/assets/VIPimg/spiderDiamond.png" alt="SilverVIP" class="imgVIP pl-20" />
       <p class="pl-20">Bugatti Divo</p>
-      <img src="/vip/divoDiamond.jpg" alt="SilverVIP" class="imgVIP pl-20" />
+      <img src="https://jakubsedlacek.xyz/assets/VIPimg/divoDiamond.jpg" alt="SilverVIP" class="imgVIP pl-20" />
     </div>
   </div>
 </template>

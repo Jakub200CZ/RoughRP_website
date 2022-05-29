@@ -1,0 +1,5 @@
+<template class>
+    <h1 class="text-yellow-600 font-mono font-bold text-3xl underline pt-10">Zákony Los Santos</h1>
+    <p class="px-20 text-gray-500">Zákony jsou sestaveny od toho aby byl jasně stanovený řád a pravidla. Zákony jsou schváleny Justici a senátem státu Los Santos. Pro jejich schvalování byla sestavena rada složená se zákonodárců a správní rady. Občané se musí řídit jejich nařízením a dodržovat striktně určené zákony podle Státu Los Santos. Při porušení některého z uvedených zákonů se trestá podle legislativy ústavního soudu a to v daném prohřešku. Závažnější trestné činy se řeší formou soudního líčení a to za přítomnosti zúčastněných stran a soudce popřípadě i složené poroty. Za jakékoliv porušení zákona je patřičný trest. Při jakémkoliv pocitu porušení zákona má občan nárok na obhájce, kterého musí následně patřičně oslovit a svěřit plnou moc v právním jednáním nebo úkonu. Kontakty na právníky najdete ve svém telefonu pod názvem Justice. Níže uvedené zákony jsou v platnosti od roku 2020 1.1.</p>
+    <p class="text-sm text-gray-400">Poslední update: <span>15.4.2022</span></p>
+</template>

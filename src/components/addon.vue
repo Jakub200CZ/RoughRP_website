@@ -16,7 +16,7 @@
     </div>
 
     <div>
-      <img src="/vip/addon.png" alt="SilverVIP" class="imgVIP pl-20" />
+      <img src="https://jakubsedlacek.xyz/assets/VIPimg/addon.png" alt="SilverVIP" class="imgVIP pl-20" />
     </div>
   </div>
 </template>

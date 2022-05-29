@@ -2,11 +2,11 @@
   <div class="flex justify-evenly text-left pt-10">
     <div>
       <p class="pr-20">Mercedes-AMG GT</p>
-      <img src="/vip/gtGold.jpg" alt="SilverVIP" class="imgVIP pr-20" />
+      <img src="https://jakubsedlacek.xyz/assets/VIPimg/gtGold.jpg" alt="SilverVIP" class="imgVIP pr-20" />
       <p class="pr-20">BMW M8</p>
-      <img src="/vip/bmwGold.png" alt="SilverVIP" class="imgVIP pr-20" />
+      <img src="https://jakubsedlacek.xyz/assets/VIPimg/bmwGold.png" alt="SilverVIP" class="imgVIP pr-20" />
       <p class="pr-20">Mercedes-Benz X Class</p>
-      <img src="/vip/xclassGold.jpg" alt="SilverVIP" class="imgVIP pr-20" />
+      <img src="https://jakubsedlacek.xyz/assets/VIPimg/xclassGold.jpg" alt="SilverVIP" class="imgVIP pr-20" />
     </div>
     <div class="pt-10 self-center">
       <h1 class="text-3xl underline text-yellow-500">Gold VIP</h1>

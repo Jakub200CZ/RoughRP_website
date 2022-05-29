@@ -13,11 +13,11 @@
 
     <div>
         <p class="pl-20">Audi A8 4.2 FSI </p>
-      <img src="/vip/audiSilver.jpg" alt="SilverVIP" class="imgVIP pl-20" />
+      <img src="https://jakubsedlacek.xyz/assets/VIPimg/audiSilver.jpg" alt="SilverVIP" class="imgVIP pl-20" />
       <p class="pl-20">BMW M5 F90</p>
-      <img src="/vip/bmwSilver.png" alt="SilverVIP" class="imgVIP pl-20" />
+      <img src="https://jakubsedlacek.xyz/assets/VIPimg/bmwSilver.png" alt="SilverVIP" class="imgVIP pl-20" />
       <p class="pl-20">Range Rover 2019</p>
-      <img src="/vip/rangeSilver.jpg" alt="SilverVIP" class="imgVIP pl-20" />
+      <img src="https://jakubsedlacek.xyz/assets/VIPimg/rangeSilver.jpg" alt="SilverVIP" class="imgVIP pl-20" />
     </div>
   </div>
 </template>
