@@ -1,8 +1,8 @@
 <template>
   <div id="nav">
     <router-link class="nav-it" to="/">Home</router-link> |
-    <router-link class="nav-it" to="/pravidla">Pravidla</router-link> |
-    <router-link class="nav-it" to="/ovladani">Ovládání</router-link> |
+    <router-link class="nav-it" to="/rules">Pravidla</router-link> |
+    <router-link class="nav-it" to="/docs">Docs</router-link> |
     <router-link class="nav-it" to="/vip">VIP</router-link> |
     <router-link class="nav-it" to="/gov">Zákony</router-link>
   </div>
@@ -38,11 +38,11 @@
 }
 
 #nav a.router-link-exact-active {
-  color: #ff2727;
+  color: rgb(234 179 8);
 }
 
 #nav a:hover {
-  color: #c3c3c3;
+  color: rgb(234 179 8);
   transition: 0.2s;
 }
 </style>

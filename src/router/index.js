@@ -8,17 +8,10 @@ const routes = [
     component: Home
   },
   {
-    path: '/pravidla',
+    path: '/rules',
     name: 'Pravidla',
     component: function () {
-      return import('../views/pravidla.vue')
-    }
-  },
-  {
-    path: '/ovladani',
-    name: 'Ovládání',
-    component: function () {
-      return import('../views/ovladani.vue')
+      return import('../views/rules.vue')
     }
   },
   {
@@ -34,7 +27,14 @@ const routes = [
     component: function () {
       return import('../views/gov.vue')
     }
-  }
+  },
+  {
+    path: '/docs',
+    name: 'Docs',
+    component: function () {
+      return import('../views/Docs.vue')
+    }
+  },
 ]
 
 const router = createRouter({
