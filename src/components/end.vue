@@ -25,18 +25,23 @@
               <a class="hover:opacity-75 transition duration-150" href="/#/">
                 Domů
               </a>
-              <a class="hover:opacity-75 transition duration-150" href="/#/">
+              <!-- <a class="hover:opacity-75 transition duration-150" href="/#/rules">
                 Pravidla
-              </a>
-              <a class="hover:opacity-75 transition duration-150" href="/#/">
+              </a> -->
+              <router-link class="nav-it hover:opacity-75 transition duration-150" to="/rules">Pravidla</router-link>
+              <router-link class="nav-it hover:opacity-75 transition duration-150" to="/docs">Dokumentace</router-link>
+              <router-link class="nav-it hover:opacity-75 transition duration-150" to="/vip">VIP</router-link>
+              <router-link class="nav-it hover:opacity-75 transition duration-150" to="/gov">GoV</router-link>
+
+              <!-- <a class="hover:opacity-75 transition duration-150" href="/#/docs">
                 Dokumentace
               </a>
-              <a class="hover:opacity-75 transition duration-150" href="/#/">
+              <a class="hover:opacity-75 transition duration-150" href="/#/vip">
                 VIP
               </a>
-              <a class="hover:opacity-75 transition duration-150" href="/#/">
+              <a class="hover:opacity-75 transition duration-150" href="/#/gov">
                 Zákony
-              </a>
+              </a> -->
             </nav>
           </div>
 
@@ -101,7 +106,7 @@
           "
           >Jakub Sedláček</a
         >
-        pro RoughRP
+         se ♥️ a za pomoci ☕️.
       </p>
     </div>
   </footer>

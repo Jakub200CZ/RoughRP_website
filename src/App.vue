@@ -6,7 +6,7 @@
     <router-link class="nav-it" to="/vip">VIP</router-link> |
     <router-link class="nav-it" to="/gov">Zákony</router-link>
   </div>
-  <router-view />
+    <router-view />
 </template>
 
 
@@ -45,4 +45,3 @@
   transition: 0.2s;
 }
 </style>
-
